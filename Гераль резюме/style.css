@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+
+    /* BEGIN (write your solution here) */
+    color: #333;
+    font-size: 18px;
+
+
+    /* END */
+    font-family: sans-serif;
+    line-height: 1.5;
+}
+
+/* BEGIN (write your solution here) */
+h1 {
+    font-size: 60px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* END */
+
+h2 {
+    /* BEGIN (write your solution here) */
+    font-size: 25px;
+    margin-top: 0px;
+    padding-bottom: 30px;
+    text-align: center;
+    /* END */
+
+    border-bottom: 2px solid #e3e3e3;
+}
+
+main {
+    width: 900px;
+    margin: auto;
+}
+
+/* BEGIN (write your solution here) */
+section {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 0px;
+    margin-right: 0 px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+li {
+    margin-bottom: 10px;
+
+}
+
+section h2 {
+    text-align: left;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    border: none;
+}
+
+/* END */
